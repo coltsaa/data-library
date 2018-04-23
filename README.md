@@ -1,7 +1,7 @@
 # data-library
-*This is a simple GUI+database windows app coding with python, using tkinter and pymssql. As a example using unusual libraries, it could be a guider for someone who wanna try them.*
+*This is a simple GUI+database windows app coding with python, using tkinter and pymssql. As a example using unusual libs, it could be a guider for someone who wanna try them.*
 
-Anyway,you should install Python3.x,that is a basic environment</br>
+Anyway,you should install Python3.x and MS SQL SERVER,which form a basic environment</br>
 Use cmd coding</br>
 ```
 pip install tkinter
